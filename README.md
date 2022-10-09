@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeproj&show_icons=true&locale=en&layout=compact" alt="felipeproj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeproj&show_icons=true&locale=en" alt="felipeproj" /></p>
+
+![Snake animation](https://github.com/felipeproj/felipeproj/blob/output/github-contribution-grid-snake.svg
